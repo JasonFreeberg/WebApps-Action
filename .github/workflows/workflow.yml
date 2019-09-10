@@ -1,5 +1,5 @@
 on: push
-#touch
+# touch
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
